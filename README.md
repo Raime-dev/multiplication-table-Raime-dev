@@ -1,4 +1,4 @@
-# Entrega: Tabela de Multiplicação 
+# Tabela de Multiplicação 
 
 ## Visão Geral
 
